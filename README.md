@@ -1,6 +1,6 @@
 # zoneless-signals-demo
 
-Companion repo for [Life without Zone.js](https://gdhami.net/blog/life-without-zonejs.html).
+Companion repo for [Going zoneless in Angular: what breaks, and the safe migration order](https://gdhami.net/blog/going-zoneless-in-angular-what-breaks-and-the-safe-migration-order).
 
 A minimal Angular app with **no zone.js at all** — it isn't in
 `package.json`, there's no polyfill, and change detection runs on
